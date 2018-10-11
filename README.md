@@ -1,3 +1,4 @@
 # cuda_kmeans
-Require gnuplot installation \n
+Require gnuplot installation 
 params: k number of clusters
+
